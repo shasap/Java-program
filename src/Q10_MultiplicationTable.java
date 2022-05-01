@@ -14,6 +14,8 @@ public class Q10_MultiplicationTable {
         for (int i = 1; i <= 12; i++)
         {
             System.out.println(a+" x "+i+" = "+ (a*i));
+
+
         }
     }
 }
