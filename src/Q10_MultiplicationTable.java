@@ -15,7 +15,6 @@ public class Q10_MultiplicationTable {
         {
             System.out.println(a+" x "+i+" = "+ (a*i));
 
-
         }
     }
 }
